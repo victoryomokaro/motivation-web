@@ -1,0 +1,90 @@
+body {
+    background-color: black;
+}
+
+#h-1 {
+  text-transform: uppercase;
+}
+
+.first {
+  color: white;
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+}
+
+#img-1 {
+  border: 5px solid white;
+  width: 100%;
+  margin-top: 20px;
+}
+
+
+.second {
+  color: white;
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+}
+
+#img-2 {
+  border: 5px solid #FF4500;
+  width: 100%;
+ margin-top: 20px; 
+}
+
+#h-2 {
+  text-transform: uppercase;
+  color: #CCCCCC;
+}
+
+.third {
+  color: white;
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+}
+
+#img-3 {
+  border: 5px solid  white;
+  width: 100%;
+  margin-top: 20px;
+}
+
+#h-3 {
+  color: #CCCCCC;
+}
+
+.fourth {
+  width: 50%;
+  margin-left: 25%;
+  color:  white;
+  text-align: center;
+}
+
+#img-4 {
+  border: 5px solid  #FF4500;
+  width: 100%;
+  margin-top: 20px;
+}
+
+#h-4 {
+  color:#CCCCCC ;
+}
+
+.fifth {
+  width: 50%;
+  margin-left: 25%;
+  color: white;
+  text-align: center;
+}
+
+#img-5 {
+  border: 5px solid white;
+  width: 100%;
+  margin-top: 20px;
+}
+
+#h-5 {
+  color: #CCCCCC;
+}
